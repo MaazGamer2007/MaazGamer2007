@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MaazGamer2007
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Java, pythom and C languages(C, C++, C#)
+- 🌱 I’m currently learning Java, python and C languages(C, C++, C#)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
